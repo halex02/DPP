@@ -1,0 +1,18 @@
+		|-------------------------------|
+		|DPP - Séance 1 - Compte-rendu :|
+		|-------------------------------|
+
+
+
+
+Durant la séance, nous nous sommes mis d'accord sur l'idée d'un jeu du type : RPG sur plateau.
+
+Les joueurs incarneraient le rôle d'un étudiant de 1ère année pour finalement atteindre le milieu
+professionnel en passant par les différentes étapes intermédiaires (validation de Licence, Master... Doctorat peut-être ?),
+le passage d'une étape à l'autre nécessitant d'acquérir un certain nombre de points (gagnés en répondant à des questions,
+résolvant des enigmes...).
+
+A également été mentionné la possible non-linéarité du jeu, ie. plusieurs cursus différents pourraient être envisagés,
+pas nécessairement tous de la même longueur/difficulté.
+
+La façon dont le jeu se terminera et les conditions de victoire n'ont pas été discutés.
